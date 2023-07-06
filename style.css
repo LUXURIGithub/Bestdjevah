@@ -3,6 +3,7 @@ body {
     background-image: linear-gradient(rgb(10, 10, 10), rgb(32, 0, 0));
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 1%;
+    height: 100vh;
 }
 
 h1 {
